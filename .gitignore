@@ -1,0 +1,42 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data
+data/*.db
+
+# Editors
+.vscode/
+.idea/
+
+# AI assistant / agent files
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+AGENTS.md
+AGENT.md
+agent.md
+agents.md
+.cursor/
+.cursorrules
+.cursorignore
+.windsurf/
+.windsurfrules
+.github/copilot-instructions.md
+.aider*
+.continue/
+.codeium/
+.gemini/
+GEMINI.md
+.codex/
+.clinerules
+.roo/
+.kiro/
